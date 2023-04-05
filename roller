@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title>Meilleur équipement pour faire du roller</title>
+     </head>
+     <body>
+        <h1>Meilleur équipement pour faire du roller</h1>
+        <p>Si vous voulez pratiquer le roller en toute sécurité, voici l'équipement essentiel dont vous avez besoin :</p>
+        <ul>
+            <li>Des patins à roulettes de qualité</li>
+            <li>Un casque de protection</li>
+            <li>Des genouillères</li>
+            <li>Des coudières</li>
+            <li>Des protèges poignets</li>
+         </ul>
+         <p>N'oubliez pas que la sécurité est primordiale pour pratiquer le roller en toute sérénité !</p>
+         <img src="roller.jpg" alt="Image de patins à roulettes">
+      </body>
+</html>
